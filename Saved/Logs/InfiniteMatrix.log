@@ -2123,3 +2123,277 @@ Are you sure?
 [2023.09.10-01.17.46:485][315]LogContentValidation: Display: Validating /Script/Engine.Material /Game/InfiniteMatrix/Materials/M_TunnelBase.M_TunnelBase
 [2023.09.10-01.17.46:485][315]LogContentValidation: Display: Validating /Script/Engine.World /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap
 [2023.09.10-01.17.46:485][315]LogContentValidation: Display: Validating /Script/Engine.MapBuildDataRegistry /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap_BuiltData
+[2023.09.10-01.23.31:703][227]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/InfiniteMatrix/Blueprints/BP_HealthPack.BP_HealthPack
+[2023.09.10-01.23.31:704][227]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.10-01.23.31:704][227]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.10-01.31.50:977][110]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2023.09.10-01.31.50:979][110]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/InfiniteMatrix/Maps/TutorialMap' took 0.021
+[2023.09.10-01.31.50:979][110]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/InfiniteMatrix/Blueprints/BP_HealthPack] ([2] browsable assets)...
+[2023.09.10-01.31.50:979][110]OBJ SavePackage: Finished generating thumbnails for package [/Game/InfiniteMatrix/Blueprints/BP_HealthPack]
+[2023.09.10-01.31.50:982][110]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/InfiniteMatrix/Blueprints/BP_HealthPack_Auto2
+[2023.09.10-01.31.50:982][110]LogSavePackage: Moving '../../../../../../Users/viyat/OneDrive/Documents/Unreal Projects/InfiniteMatrixStarter 5.2/Saved/BP_HealthPack_Auto2F345A4464A7D4ED0EC050598D588E39C.tmp' to '../../../../../../Users/viyat/OneDrive/Documents/Unreal Projects/InfiniteMatrixStarter 5.2/Saved/Autosaves/Game/InfiniteMatrix/Blueprints/BP_HealthPack_Auto2.uasset'
+[2023.09.10-01.31.50:983][110]LogFileHelpers: Auto-saving content packages took 0.004
+[2023.09.10-01.33.49:202][124]BlueprintLog: New page: Compile BP_HealthPack
+[2023.09.10-01.33.49:264][124]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2023.09.10-01.33.50:108][167]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.10-01.33.50:193][167]LogSavePackage: Moving output files for package: /Game/InfiniteMatrix/Blueprints/BP_HealthPack
+[2023.09.10-01.33.50:194][167]LogSavePackage: Moving '../../../../../../Users/viyat/OneDrive/Documents/Unreal Projects/InfiniteMatrixStarter 5.2/Saved/BP_HealthPackA56A4EA34D0C7AD476CBCE9E611ABD1C.tmp' to '../../../../../../Users/viyat/OneDrive/Documents/Unreal Projects/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/Blueprints/BP_HealthPack.uasset'
+[2023.09.10-01.33.50:208][167]LogFileHelpers: InternalPromptForCheckoutAndSave took 100 ms (total: 2.86 sec)
+[2023.09.10-01.33.50:214][167]AssetCheck: New page: Asset Save: BP_HealthPack
+[2023.09.10-01.33.50:214][167]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/InfiniteMatrix/Blueprints/BP_HealthPack.BP_HealthPack
+[2023.09.10-01.33.53:635][359]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.09.10-01.33.53:642][359]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.09.10-01.33.53:642][359]PIE: New page: PIE session: TutorialMap (Sep 9, 2023, 3:33:53 PM)
+[2023.09.10-01.33.53:642][359]LogPlayLevel: Creating play world package: /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2023.09.10-01.33.53:644][359]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001517s)
+[2023.09.10-01.33.53:644][359]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap to /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.001553s)
+[2023.09.10-01.33.53:644][359]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.10-01.33.53:644][359]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.10-01.33.53:644][359]LogAIModule: Creating AISystem for world TutorialMap
+[2023.09.10-01.33.53:645][359]LogPlayLevel: PIE: World Init took: (0.000753s)
+[2023.09.10-01.33.53:666][359]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2023.09.10-01.33.53:670][359]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2023.09.10-01.33.53:670][359]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.09.10-01.33.53:670][359]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.09.10-01.33.53:670][359]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.09.10-01.33.53:670][359]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.09.10-01.33.53:670][359]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.09.10-01.33.53:670][359]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.09.10-01.33.53:670][359]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.09.10-01.33.53:670][359]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.09.10-01.33.53:671][359]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.09.10-01.33.53:671][359]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.09.10-01.33.53:671][359]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.09.10-01.33.53:672][359]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.09.10-01.33.53:691][359]LogAudioMixer: Display: Using Audio Hardware Device Speakers (C-Media(R) Audio)
+[2023.09.10-01.33.53:692][359]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.09.10-01.33.53:692][359]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.09.10-01.33.53:692][359]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.09.10-01.33.53:693][359]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2023.09.10-01.33.53:693][359]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2023.09.10-01.33.53:694][359]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2023.09.10-01.33.53:694][359]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2023.09.10-01.33.53:694][359]LogInit: FAudioDevice initialized with ID 11.
+[2023.09.10-01.33.53:694][359]LogAudio: Display: Audio Device (ID: 11) registered with world 'TutorialMap'.
+[2023.09.10-01.33.53:695][359]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2023.09.10-01.33.53:697][359]LogLoad: Game class is 'GM_Tutorial_C'
+[2023.09.10-01.33.53:697][359]LogWorld: Bringing World /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 60) at 2023.09.09-20.33.53
+[2023.09.10-01.33.53:697][359]LogWorld: Bringing up level for play took: 0.000435
+[2023.09.10-01.33.53:700][359]LogOnline: OSS: Created online subsystem instance for: :Context_21
+[2023.09.10-01.33.53:704][359]PIE: Server logged in
+[2023.09.10-01.33.53:704][359]PIE: Play in editor total start time 0.063 seconds.
+[2023.09.10-01.33.53:717][359]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.10-01.33.53:719][359]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.10-01.33.53:719][359]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.10-01.33.53:720][359]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.10-01.33.53:720][359]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.10-01.33.53:721][359]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.10-01.33.53:721][359]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.10-01.33.53:721][359]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.10-01.33.53:722][359]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.10-01.33.55:461][464]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.10-01.33.56:469][524]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.10-01.33.57:470][584]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.10-01.33.59:487][705]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.10-01.34.00:504][766]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.10-01.34.01:505][826]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.10-01.34.02:519][887]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.10-01.34.02:520][887]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.10-01.34.04:560][  9]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.10-01.34.05:572][ 70]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.10-01.34.05:573][ 70]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.10-01.34.06:586][131]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.10-01.34.07:596][189]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.10-01.34.07:597][189]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.10-01.34.09:615][310]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.10-01.34.09:616][310]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.10-01.34.10:616][370]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.10-01.34.10:617][370]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.10-01.34.11:631][431]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.10-01.34.12:631][491]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.10-01.34.12:632][491]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.10-01.34.13:632][551]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.10-01.34.15:667][673]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.10-01.34.16:680][734]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.10-01.34.17:682][794]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.10-01.34.18:683][854]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.10-01.34.20:697][975]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.10-01.34.21:715][ 36]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.10-01.34.22:721][ 92]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.10-01.34.23:735][153]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.10-01.34.25:753][274]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.10-01.34.26:753][334]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.10-01.34.26:755][334]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.10-01.34.27:768][395]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.10-01.34.27:769][395]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.10-01.34.28:769][455]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.10-01.34.29:770][515]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.10-01.34.30:784][576]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.10-01.34.30:786][576]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.10-01.34.31:785][636]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.10-01.34.32:801][697]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.10-01.34.33:803][757]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.10-01.34.35:836][879]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.10-01.34.35:839][879]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.10-01.34.36:852][940]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.10-01.34.37:868][  1]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.10-01.34.38:875][ 57]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.10-01.34.38:877][ 57]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.10-01.34.39:888][118]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.10-01.34.41:905][239]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.10-01.34.41:905][239]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.10-01.34.42:921][300]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.10-01.34.43:923][360]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.10-01.34.44:852][416]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.09.10-01.34.44:852][416]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2023.09.10-01.34.44:937][421]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.10-01.34.47:971][599]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.10-01.34.47:971][599]LogWorld: BeginTearingDown for /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2023.09.10-01.34.47:971][599]LogWorld: UWorld::CleanupWorld for TutorialMap, bSessionEnded=true, bCleanupResources=true
+[2023.09.10-01.34.47:972][599]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.10-01.34.47:976][599]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.09.10-01.34.47:981][599]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.10-01.34.48:003][599]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.09.10-01.34.48:003][599]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2023.09.10-01.34.48:003][599]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2023.09.10-01.34.48:005][599]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2023.09.10-01.34.48:009][599]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.10-01.34.48:012][599]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2023.09.10-01.34.48:020][599]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.10-01.34.48:021][599]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.10-01.34.48:021][599]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.10-01.34.48:022][599]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.10-01.34.48:022][599]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.10-01.34.48:041][601]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2023.09.10-01.36.19:119][784]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.09.10-01.36.19:124][784]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.09.10-01.36.19:125][784]PIE: New page: PIE session: TutorialMap (Sep 9, 2023, 3:36:19 PM)
+[2023.09.10-01.36.19:125][784]LogPlayLevel: Creating play world package: /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2023.09.10-01.36.19:127][784]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001498s)
+[2023.09.10-01.36.19:127][784]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap to /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.001538s)
+[2023.09.10-01.36.19:127][784]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.10-01.36.19:127][784]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.10-01.36.19:127][784]LogAIModule: Creating AISystem for world TutorialMap
+[2023.09.10-01.36.19:127][784]LogPlayLevel: PIE: World Init took: (0.000787s)
+[2023.09.10-01.36.19:150][784]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2023.09.10-01.36.19:152][784]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2023.09.10-01.36.19:152][784]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.09.10-01.36.19:152][784]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.09.10-01.36.19:152][784]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.09.10-01.36.19:152][784]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.09.10-01.36.19:152][784]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.09.10-01.36.19:152][784]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.09.10-01.36.19:152][784]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.09.10-01.36.19:152][784]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.09.10-01.36.19:152][784]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.09.10-01.36.19:152][784]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.09.10-01.36.19:152][784]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.09.10-01.36.19:154][784]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.09.10-01.36.19:169][784]LogAudioMixer: Display: Using Audio Hardware Device Speakers (C-Media(R) Audio)
+[2023.09.10-01.36.19:169][784]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.09.10-01.36.19:169][784]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.09.10-01.36.19:170][784]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.09.10-01.36.19:172][784]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2023.09.10-01.36.19:173][784]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2023.09.10-01.36.19:174][784]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2023.09.10-01.36.19:174][784]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2023.09.10-01.36.19:174][784]LogInit: FAudioDevice initialized with ID 12.
+[2023.09.10-01.36.19:174][784]LogAudio: Display: Audio Device (ID: 12) registered with world 'TutorialMap'.
+[2023.09.10-01.36.19:174][784]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2023.09.10-01.36.19:176][784]LogLoad: Game class is 'GM_Tutorial_C'
+[2023.09.10-01.36.19:177][784]LogWorld: Bringing World /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 60) at 2023.09.09-20.36.19
+[2023.09.10-01.36.19:177][784]LogWorld: Bringing up level for play took: 0.000460
+[2023.09.10-01.36.19:179][784]LogOnline: OSS: Created online subsystem instance for: :Context_22
+[2023.09.10-01.36.19:182][784]PIE: Server logged in
+[2023.09.10-01.36.19:183][784]PIE: Play in editor total start time 0.057 seconds.
+[2023.09.10-01.36.19:192][784]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.10-01.36.19:192][784]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.10-01.36.19:192][784]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.10-01.36.19:193][784]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.10-01.36.19:193][784]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.10-01.36.19:193][784]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.10-01.36.19:194][784]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.10-01.36.19:194][784]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.10-01.36.19:194][784]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.10-01.36.20:050][836]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.10-01.36.21:051][896]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.10-01.36.22:051][956]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.10-01.36.22:052][956]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.10-01.36.23:067][ 17]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.10-01.36.23:068][ 17]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.10-01.36.24:139][ 72]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.10-01.36.24:140][ 72]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.10-01.36.25:139][132]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.10-01.36.26:154][193]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.10-01.36.27:155][253]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.10-01.36.27:155][253]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.10-01.36.28:161][313]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.10-01.36.28:162][313]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.10-01.36.29:162][373]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.10-01.36.29:162][373]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.10-01.36.30:161][433]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.10-01.36.31:178][494]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.10-01.36.31:179][494]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.10-01.36.32:196][555]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.10-01.36.32:197][555]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.10-01.36.33:212][616]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.10-01.36.33:213][616]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.10-01.36.34:228][677]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.10-01.36.35:228][737]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.10-01.36.36:228][797]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.10-01.36.37:245][858]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.10-01.36.38:262][919]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.10-01.36.39:530][973]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.10-01.36.39:530][973]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.10-01.36.40:537][ 34]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.10-01.36.42:570][156]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.10-01.36.42:570][156]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.10-01.36.43:571][216]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.10-01.36.44:586][277]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.10-01.36.44:587][277]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.10-01.36.45:604][338]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.10-01.36.45:605][338]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.10-01.36.46:604][398]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.10-01.36.47:619][459]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.10-01.36.48:620][519]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.10-01.36.48:622][519]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.10-01.36.49:619][579]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.10-01.36.49:620][579]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.10-01.36.50:637][640]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.10-01.36.50:638][640]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.10-01.36.51:637][700]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.10-01.36.53:653][821]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.10-01.36.53:654][821]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.10-01.36.54:084][847]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.09.10-01.36.54:084][847]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2023.09.10-01.36.54:654][881]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.10-01.36.55:800][936]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.10-01.36.56:191][957]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.10-01.36.56:191][957]LogWorld: BeginTearingDown for /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2023.09.10-01.36.56:191][957]LogWorld: UWorld::CleanupWorld for TutorialMap, bSessionEnded=true, bCleanupResources=true
+[2023.09.10-01.36.56:191][957]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.10-01.36.56:196][957]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.09.10-01.36.56:201][957]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.10-01.36.56:222][957]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.10-01.36.56:222][957]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2023.09.10-01.36.56:222][957]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2023.09.10-01.36.56:223][957]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2023.09.10-01.36.56:230][957]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2023.09.10-01.36.56:238][957]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.10-01.36.56:238][957]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.10-01.36.56:239][957]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.10-01.36.56:239][957]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.10-01.36.56:239][957]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.10-01.36.56:259][959]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2023.09.10-01.36.59:836][172]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2023.09.10-01.36.59:855][172]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2023.09.10-01.37.01:219][172]LogSlate: Window 'Save Content' being destroyed
+[2023.09.10-01.37.01:241][172]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.10-01.37.01:334][172]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2023.09.10-01.37.01:342][172]LogSavePackage: Moving output files for package: /Game/InfiniteMatrix/Maps/TutorialMap
+[2023.09.10-01.37.01:343][172]LogSavePackage: Moving '../../../../../../Users/viyat/OneDrive/Documents/Unreal Projects/InfiniteMatrixStarter 5.2/Saved/TutorialMapC625F93841CFE995B97B939C24690818.tmp' to '../../../../../../Users/viyat/OneDrive/Documents/Unreal Projects/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/Maps/TutorialMap.umap'
+[2023.09.10-01.37.01:347][172]LogFileHelpers: Saving map 'TutorialMap' took 0.033
+[2023.09.10-01.37.01:358][172]LogFileHelpers: InternalPromptForCheckoutAndSave took 117 ms (total: 2.98 sec)
+[2023.09.10-01.37.01:364][172]AssetCheck: New page: Asset Save: multiple assets
+[2023.09.10-01.37.01:364][172]LogContentValidation: Display: Validating /Script/Engine.World /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap
+[2023.09.10-01.37.01:364][172]LogContentValidation: Display: Validating /Script/Engine.MapBuildDataRegistry /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap_BuiltData
